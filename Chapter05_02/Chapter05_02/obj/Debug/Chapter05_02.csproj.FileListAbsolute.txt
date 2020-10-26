@@ -1,0 +1,10 @@
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\bin\Debug\Chapter05_02.exe.config
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\bin\Debug\Chapter05_02.exe
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\bin\Debug\Chapter05_02.pdb
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.csprojAssemblyReference.cache
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.Form1.resources
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.Properties.Resources.resources
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.csproj.GenerateResource.cache
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.csproj.CoreCompileInputs.cache
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.exe
+D:\WKU\2-2\Winform\Chapter05_02\Chapter05_02\obj\Debug\Chapter05_02.pdb
